@@ -5,6 +5,8 @@ Days Taker is a note-taking app with a smooth interface and easy operation.You c
 After a period of public beta, many users have given us some suggestions to improve the user experience of Days Taker. If you have any ideas or suggestions during the use, you can feedback in settings->Help & support  of Days Takers to us or contact us directly.
 
 Our contact information is as follows:
+
 contact number: +86400-877-2586
+
 E-mail address: service@pocketdiary.com
 
